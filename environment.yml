@@ -1,0 +1,13 @@
+name: cs337proj2part2
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+    - python-dotenv==1.0.0
+    - google-genai==0.2.2
+    - requests==2.31.0
+    - beautifulsoup4==4.12.3
+
