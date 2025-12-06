@@ -22,6 +22,7 @@ An AI-powered cooking assistant that helps users follow online recipes using Goo
 ├── assistant.py          # Main application with chat loop
 ├── scrape.py            # Web scraping functionality for recipes
 ├── prompt.py            # System prompt for the AI assistant
+├── recipe_api.py       # Use the parse function
 ├── gemini_test.py       # Test script for Gemini API
 ├── environment.yml      # Conda environment configuration
 └── README.md            # This file
