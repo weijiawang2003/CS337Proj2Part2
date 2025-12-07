@@ -1,5 +1,3 @@
-# llm_chat.py
-
 from dotenv import load_dotenv
 import os
 from google import genai
@@ -54,3 +52,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
